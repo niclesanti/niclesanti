@@ -12,7 +12,7 @@ Hello! I’m a technology enthusiast with a passion for problem-solving. I am cu
 - I am currently developing an expense management application as part of my self-learning journey.  
 
 ### 📚 Education and Experience:  
-Information Systems Engineering student.  
+- Information Systems Engineering student.  
 
 ### 🌐 Contact:  
 - Email: [niclesantiago@gmail.com](#)  
