@@ -1,16 +1,19 @@
-### Hi there 👋
+## About Me 👋  
 
-<!--
-**niclesanti/niclesanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m a technology enthusiast with a passion for problem-solving. I am currently studying Information Systems Engineering and dedicate part of my time to learning programming.  
 
-Here are some ideas to get you started:
+### 💻 Skills and Technologies:  
+- **Programming Languages:** Learning Java (backend).  
+- **Databases:** PostgreSQL.  
+- **Version Control Tools:** git, GitHub.  
+- **Interests:** Systems development and management tools.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Projects:  
+- I am currently developing an expense management application as part of my self-learning journey.  
+
+### 📚 Education and Experience:  
+Information Systems Engineering student.  
+
+### 🌐 Contact:  
+- Email: [niclesantiago@gmail.com](#)  
+- GitHub: You’re already here! Feel free to explore my projects and leave a comment or contribute.  
