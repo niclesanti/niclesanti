@@ -53,9 +53,21 @@ Actualmente me encuentro perfeccionando mis habilidades en **Java con Spring Boo
 * 🐇 **Comunicación asíncrona** entre servicios con **RabbitMQ**.
 * 🔄 **Comunicación sincrónica** mediante OpenFeign, integrando servicios desacoplados.
 * 🧪 **Testing avanzado**: validaciones de negocio, tests automatizados y configuración de pipelines de CI.
-* 🐳 **Contenerización con Docker** y despliegue de múltiples microservicios en entornos distribuidos.
+* 🐳 **Contenerización con Docker y orquestación con Kubernetes** y despliegue de múltiples microservicios en entornos distribuidos.
 * 📊 **Observabilidad de sistemas distribuidos** con **OpenTelemetry, Prometheus, Grafana, Loki y Tempo**, para trazabilidad, métricas y logs centralizados.
-* 🗃️ Uso combinado de **bases de datos relacionales (PostgreSQL)** y **NoSQL (MongoDB)** según necesidades específicas del dominio.
+* 🗃️ Uso combinado de **bases de datos relacionales (PostgreSQL y MySQL)** y **NoSQL (MongoDB)** según necesidades específicas del dominio.
+
+
+## 🚀 Últimos Proyectos
+
+🔹 [Sistema de gestión de reservas para un hotel](https://github.com/Seba02-sr/gestion-de-reservas)  
+Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura basada en microservicios, aplicando tecnologías como: Spring Boot, Spring Cloud, Eureka, RabbitMQ, OpenFeign, Docker, Kubernete, MySQL, PostgreSQL y MongoDB. Incluye arquitectura híbrida (sincrónica/asíncrona) y observabilidad con OpenTelemetry, Prometheus, Grafana, Loki y Tempo.
+
+🔹 [Sistema de gestión de finanzas personales](https://github.com/niclesanti/ProyectoCampo/tree/develop)  
+Proyecto personal de desarrollo de una aplicación web con una arquitectura básica de capas, aplicando tecnologías como Spring Boot, Spring Data, Spring Security con autenticación OAuth 2.0, Docker, PostgreSQL, Flyway, H2, Maven, JUnit 5, Mockito. Un frontend simple con HTML5, CSS3, JavaScript.
+
+🔹 [Sistema de gestión de licencias de conducir](https://github.com/niclesanti/TP-Metodos-Agiles/tree/develop)  
+Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura básica de capas, aplicando tecnologías como Spring Boot, Spring Data, PostgreSQL, H2, Maven, JUnit 5, Mockito. Un frontend simple con HTML5, CSS3, JavaScript.
 
 
 ## 🤝 ¿Conectamos?
