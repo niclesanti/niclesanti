@@ -63,7 +63,7 @@ Actualmente me encuentro perfeccionando mis habilidades en **Java con Spring Boo
 🔹 [Sistema de gestión de reservas para un hotel](https://github.com/Seba02-sr/gestion-de-reservas)  
 Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura basada en microservicios, aplicando tecnologías como: Spring Boot, Spring Cloud, Eureka, RabbitMQ, OpenFeign, Docker, Kubernete, MySQL, PostgreSQL y MongoDB. Incluye arquitectura híbrida (sincrónica/asíncrona) y observabilidad con OpenTelemetry, Prometheus, Grafana, Loki y Tempo.
 
-🔹 [Sistema de gestión de finanzas personales](https://github.com/niclesanti/ProyectoCampo/tree/develop)  
+🔹 [Sistema de gestión de finanzas personales](https://github.com/niclesanti/ProyectoCampo)  
 Proyecto personal de desarrollo de una aplicación web con una arquitectura básica de capas, aplicando tecnologías como Spring Boot, Spring Data, Spring Security con autenticación OAuth 2.0, Docker, PostgreSQL, Flyway, H2, Maven, JUnit 5, Mockito. Un frontend simple con HTML5, CSS3, JavaScript.
 
 🔹 [Sistema de gestión de licencias de conducir](https://github.com/niclesanti/TP-Metodos-Agiles/tree/develop)  
