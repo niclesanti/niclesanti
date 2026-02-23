@@ -69,8 +69,7 @@ Soy un desarrollador enfocado en el **Backend**, especializado en la creación d
 
 ## 🚀 Últimos Proyectos
 
-🔹 [Sistema de gestión de finanzas personales](https://github.com/niclesanti/ProyectoGastos)  
-**Proyecto principal**
+🔹 [Sistema de gestión de finanzas personales](https://github.com/niclesanti/ProyectoGastos)  - **Proyecto principal**
 
 Sistema Full-Stack profesional para la gestión integral de finanzas personales y familiares. Ofrece control completo sobre el registro de transacciones, cuentas bancarias, tarjetas de crédito, compras en cuotas y análisis financiero mediante dashboards interactivos con excelente precisión en los datos que permite llevar todos tus números al día. Desarrollado con tecnologías modernas y siguiendo las mejores prácticas de la industria.
 
