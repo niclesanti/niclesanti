@@ -2,7 +2,7 @@
 
 **Backend Developer | Java & Spring Boot Specialist | Estudiante de Ingeniería en Sistemas**
 
-Soy un desarrollador enfocado en el **Backend**, especializado en la creación de ecosistemas robustos y escalables utilizando **Java y Spring Boot**. Mi enfoque combina el rigor académico de la **Ingeniería en Sistemas** con la implementación práctica de arquitecturas modernas y seguridad.
+Soy un desarrollador enfocado en el **Backend**, especializado en la creación de ecosistemas robustos y escalables utilizando **Java y Spring Boot**. Mi enfoque combina el rigor académico de la **Ingeniería en Sistemas de Información** con la implementación práctica de arquitecturas modernas y seguridad.
 
 
 ## 💼 Perfil profesional
@@ -32,7 +32,7 @@ Soy un desarrollador enfocado en el **Backend**, especializado en la creación d
 - **Lenguaje:** Java (v21)
 - **Frameworks:** Spring Boot (Web, Data JPA + Hibernate, Security)
 - **Seguridad:** OAuth 2.0, JWT
-- **Testing & Quality:** JUnit 5, Mockito, Clean Code
+- **Testing & Quality:** JUnit 5, Mockito
 
 ### Bases de Datos
 - **SGBD:** PostgreSQL
@@ -73,18 +73,17 @@ Soy un desarrollador enfocado en el **Backend**, especializado en la creación d
 
 Sistema Full-Stack profesional para la gestión integral de finanzas personales y familiares. Ofrece control completo sobre el registro de transacciones, cuentas bancarias, tarjetas de crédito, compras en cuotas y análisis financiero mediante dashboards interactivos con excelente precisión en los datos que permite llevar todos tus números al día. Desarrollado con tecnologías modernas y siguiendo las mejores prácticas de la industria.
 
-🔹 [Sistema de gestión de reservas para un hotel - En desarrollo](https://github.com/niclesanti/tp-dan-2025)  
-Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura basada en microservicios, aplicando tecnologías como: Spring Boot, Spring Cloud, Eureka, RabbitMQ, OpenFeign, Docker, Kubernete, MySQL, PostgreSQL y MongoDB. Incluye arquitectura híbrida (sincrónica/asíncrona) y observabilidad con OpenTelemetry, Prometheus, Grafana, Loki y Tempo.
-
 🔹 [Sistema de gestión hotelera](https://github.com/niclesantiutn/TP-DSI-2025)  
 Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura simple en capas, aplicando tecnologías como: Java 21, Spring Boot, Spring Data JPA, Spring Security, Docker, PostgreSQL, Thymeleaf.
 
+🔹 [Sistema de gestión de reservas para un hotel - En desarrollo](https://github.com/niclesanti/tp-dan-2025)  
+Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura basada en microservicios, aplicando tecnologías como: Spring Boot, Spring Cloud, Eureka, RabbitMQ, OpenFeign, Docker, Kubernete, MySQL, PostgreSQL y MongoDB. Incluye arquitectura híbrida (sincrónica/asíncrona) y observabilidad con OpenTelemetry, Prometheus, Grafana, Loki y Tempo.
 
 ## 🤝 ¿Conectamos?
 
 Estoy abierto a colaborar en proyectos, compartir ideas y seguir aprendiendo en comunidad. Si querés contactarme, acá me encontrás:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-nicle/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-nicle)
 - 📧 niclesantiago@gmail.com
 
 ---
