@@ -11,7 +11,7 @@ Soy un desarrollador enfocado en el **Backend**, especializado en la creación d
 - 🧠 **Pensamiento analítico**: Disfruto resolver problemas complejos a través del análisis, diseño y ejecución de soluciones óptimas.
 - 🚀 **Mentalidad de aprendizaje**: Aprendizaje autónomo de nuevas tecnologías constantemente.
 - 🎓 **Formación académica**: Estudiante avanzado de Ingeniería en Sistemas de Información con sólidos fundamentos en análisis y diseño de sistemas, programación, bases de datos, arquitectura de software y despliegue de sistemas.
-
+- 🤖 **Agentes de codificación IA**: Optimizo el ciclo de vida del software configurando sistemas multiagente de codificación. Diseño agentes personalizados asignando roles específicos, extendiendo sus capacidades mediante *skills* y conectando protocolos **MCP** (Model Context Protocol) para resolver flujos complejos de backend, frontend e infraestructura.
 
 ## 🛠 Tecnologías y Herramientas
 
@@ -57,10 +57,9 @@ Soy un desarrollador enfocado en el **Backend**, especializado en la creación d
 
 ### 📚 Actualmente aprendiendo
 
-* 🧩 **Arquitectura de microservicios moderna**, aplicando separación de responsabilidades, escalabilidad y comunicación entre servicios.
+* 🧩 **Arquitectura de microservicios**, aplicando separación de responsabilidades, escalabilidad y comunicación entre servicios.
 * 🧬 **Spring Cloud**: Eureka (Service Discovery), Spring Cloud Gateway (API Gateway).
 * 🐇 **Comunicación asíncrona** entre servicios con **RabbitMQ**.
-* 🔄 **Comunicación sincrónica** mediante OpenFeign, integrando servicios desacoplados.
 * 🧪 **Testing avanzado**: validaciones de negocio, tests automatizados y configuración de pipelines de CI.
 * 🐳 **Contenerización con Docker y orquestación con Kubernetes** y despliegue de múltiples microservicios en entornos distribuidos.
 * 📊 **Observabilidad de sistemas distribuidos** con **OpenTelemetry, Prometheus, Grafana, Loki y Tempo**, para trazabilidad, métricas y logs centralizados.
@@ -73,11 +72,11 @@ Soy un desarrollador enfocado en el **Backend**, especializado en la creación d
 
 Sistema Full-Stack profesional para la gestión integral de finanzas personales y familiares. Ofrece control completo sobre el registro de transacciones, cuentas bancarias, tarjetas de crédito, compras en cuotas y análisis financiero mediante dashboards interactivos con excelente precisión en los datos que permite llevar todos tus números al día. Desarrollado con tecnologías modernas y siguiendo las mejores prácticas de la industria.
 
-🔹 [Sistema de gestión hotelera](https://github.com/niclesantiutn/TP-DSI-2025)  
-Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura simple en capas, aplicando tecnologías como: Java 21, Spring Boot, Spring Data JPA, Spring Security, Docker, PostgreSQL, Thymeleaf.
-
 🔹 [Sistema de gestión de reservas para un hotel - En desarrollo](https://github.com/niclesanti/tp-dan-2025)  
 Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura basada en microservicios, aplicando tecnologías como: Spring Boot, Spring Cloud, Eureka, RabbitMQ, OpenFeign, Docker, Kubernete, MySQL, PostgreSQL y MongoDB. Incluye arquitectura híbrida (sincrónica/asíncrona) y observabilidad con OpenTelemetry, Prometheus, Grafana, Loki y Tempo.
+
+🔹 [Sistema de gestión hotelera](https://github.com/niclesantiutn/TP-DSI-2025)  
+Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura simple en capas, aplicando tecnologías como: Java 21, Spring Boot, Spring Data JPA, Spring Security, Docker, PostgreSQL, Thymeleaf.
 
 ## 🤝 ¿Conectamos?
 
