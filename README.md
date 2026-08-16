@@ -73,9 +73,11 @@ Soy un desarrollador enfocado en el **Backend**, especializado en la creación d
 Sistema Full-Stack profesional para la gestión integral de finanzas personales y familiares. Ofrece control completo sobre el registro de transacciones, cuentas bancarias, tarjetas de crédito, compras en cuotas y análisis financiero mediante dashboards interactivos con excelente precisión en los datos que permite llevar todos tus números al día. Desarrollado con tecnologías modernas y siguiendo las mejores prácticas de la industria.
 
 🔹 [Sistema de gestión de reservas para un hotel](https://github.com/niclesanti/tp-dan-2025)  - **Proyecto académico**
+
 Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura basada en microservicios, aplicando tecnologías como: Spring Boot, Spring Cloud, Eureka, RabbitMQ, OpenFeign, Docker, Kubernete, MySQL, PostgreSQL y MongoDB. Incluye arquitectura híbrida (sincrónica/asíncrona) y observabilidad con OpenTelemetry, Prometheus, Grafana, Loki y Tempo.
 
 🔹 [Sistema de gestión hotelera](https://github.com/niclesantiutn/TP-DSI-2025)  - **Proyecto académico**
+
 Proyecto académico grupal de desarrollo de una aplicación Web con una arquitectura simple en capas, aplicando tecnologías como: Java 21, Spring Boot, Spring Data JPA, Spring Security, Docker, PostgreSQL, Thymeleaf.
 
 ## 🤝 ¿Conectamos?
